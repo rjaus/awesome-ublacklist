@@ -26,4 +26,4 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 
 ## Social Media
-- [Pinterest](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest): Blocks all websites for pinterest.
+- [Pinterest](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt): Blocks all websites for pinterest.
