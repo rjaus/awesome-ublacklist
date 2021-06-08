@@ -1,22 +1,29 @@
 # awesome-ublacklist [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 Awesome list of uBlacklist subscriptions to block search results from google, bing & duckduckgo.
 
-## uBlacklist
-uBlacklist browser extension prevents blacklisted sites from appearing in Google, Bing or DDG search results.
+## Background: What is uBlacklist?
+uBlacklist is a browser extension which prevents blacklisted sites from appearing in Google, Bing or DDG search results.
 
+Get the extension here:
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) (made by [iorate](https://github.com/iorate) Twitter: [@iorate](https://twitter.com/iorate))
 
 [Mac App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640) (made by [Group-Leafy](https://github.com/HoneyLuka/uBlacklist/tree/safari-port/safari-project))
 
 uBlacklist Repo: https://github.com/iorate/uBlacklist
 
-## Blocking rules
-You can add rules on search result pages, or on sites to be blocked by clicking the toolbar icon. Rules can be specified either by match patterns (e.g. *://*.example.com/*) or by regular expressions (e.g. /example\.(net|org)/).
+## How to use it: Blocking rules
+You can add rules to uBlacklist to block specific pages or domains from appearing on the search results page.  These rules can be specified with wildcard pattern matching or regular expressions.
 
-## Subscriptions
+Wildcard pattern matching: *://*.example.com/* 
+Regular expressions: /example\.(net|org)/
 
-To publish a blacklist as a subscription, place a blacklist file encoded in UTF-8 on a suitable HTTP(S) server, and publish the URL. Here is [an example](https://raw.githubusercontent.com/iorate/ublacklist-example-subscription/master/uBlacklist.txt) hosted on GitHub.
+## Use subscriptions 
 
+Rather than start your own blacklist from scratch, you can subscribe to pre-existing blacklists (built by the community).
+
+A subscription file is simple a UTF-8 encoded text file.  Here is an example: https://raw.githubusercontent.com/iorate/ublacklist-example-subscription/master/uBlacklist.txt
+
+They can be hosted anywhere, including github.  *Just ensure you copy the raw link version into the extension.*
 
 # Awesome uBlacklist Subscriptions
 And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your browser, then subscribe to the lists below to bootstrap a much improved search experience.
