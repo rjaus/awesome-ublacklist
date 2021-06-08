@@ -37,4 +37,4 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Edit](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt) - [Pinterest](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt): Blocks all websites for pinterest.
 
 ## Developer Sites
-- [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs (spam blogs)](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
+- [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
