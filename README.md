@@ -33,6 +33,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Table of Contents
 - [Social Media](#social-media)
 - [Developer Content / Sites](#developer-sites)
+- [Local Business](#local-business)
 
 
 ## Social Media
@@ -40,3 +41,6 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Developer Sites
 - [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
+
+## Local Business
+- [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) - Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24)
