@@ -26,7 +26,7 @@ A subscription file is simple a UTF-8 encoded text file.  Here is an example: ht
 They can be hosted anywhere, including github.  *Just ensure you copy the raw link version into the extension.*
 
 # Awesome uBlacklist Subscriptions
-And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your browser, then subscribe to the lists below to bootstrap a much improved search experience.
+And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your browser, then subscribe to the lists below to bootstrap a much improved search experience.  Find a good list? Or made your own? Submit a pull request
 
 ## Table of Contents
 - [Social Media](#social-media)
