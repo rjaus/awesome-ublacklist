@@ -23,7 +23,7 @@ Regular expressions: `/example\.(net|org)/`
 
 Rather than start your own blacklist from scratch, you can subscribe to pre-existing blacklists (built by the community).
 
-A subscription file is simple a UTF-8 encoded text file.  Here is an example: https://raw.githubusercontent.com/iorate/ublacklist-example-subscription/master/uBlacklist.txt
+A subscription file is simply a UTF-8 encoded text file.  Here is an example: https://raw.githubusercontent.com/iorate/ublacklist-example-subscription/master/uBlacklist.txt
 
 They can be hosted anywhere, including github (**Just ensure you copy the raw link version into the extension.**)
 
