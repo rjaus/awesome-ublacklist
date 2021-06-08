@@ -1,5 +1,5 @@
 # awesome-ublacklist [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-Awesome list of uBlacklist subscriptions to block seach results from google, bing & duckduckgo.
+Awesome list of uBlacklist subscriptions to block search results from google, bing & duckduckgo.
 
 ## uBlacklist
 uBlacklist browser extension prevents blacklisted sites from appearing in Google, Bing or DDG search results.
