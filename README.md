@@ -21,3 +21,9 @@ To publish a blacklist as a subscription, place a blacklist file encoded in UTF-
 # Awesome uBlacklist Subscriptions
 And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your browser, then subscribe to the lists below to bootstrap a much improved search experience.
 
+## Table of Contents
+- [Social Media](#social-media)
+
+
+## Social Media
+- [Pinterest](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest): Blocks all websites for pinterest.
