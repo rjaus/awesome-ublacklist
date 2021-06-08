@@ -23,7 +23,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Table of Contents
 - [Social Media](#social-media)
-- [Developer Content / Sites](#developer-sites
+- [Developer Content / Sites](#developer-sites)
 
 
 ## Social Media
