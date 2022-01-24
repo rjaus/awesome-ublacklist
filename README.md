@@ -33,6 +33,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Table of Contents
 - [Social Media](#social-media)
 - [Developer Content / Sites](#developer-sites)
+- [Shopping](#shopping)
 - [Local Business](#local-business)
 
 
@@ -42,6 +43,10 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Developer Sites
 - [Edit](https://github.com/arosh/ublacklist-github-translation/blob/master/uBlacklist.txt) - [GitHub Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt): Blocks a bunch of low value GitHub translation spam blogs.
 - [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
+
+## Shopping
+ - [Edit](https://github.com/franga2000/aliexpress-fake-sites#how-to-contribute) - [Fake webstores](https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
+) - Blocks fake machine-translated web stores that only redirect you to AliExpress
 
 ## Local Business
 - [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) - Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24)
