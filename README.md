@@ -51,5 +51,9 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Local Business
 - [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) - Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24)
 
+## Content Farms
+
+- [Generic content farm](https://github.com/wdmpa/content-farm-list) - Blocks AI content farm. 
+
 ## Gaming
 - [StopModReposts](https://api.stopmodreposts.org/minecraft/ublacklist.txt) - Blocks Minecraft mod repost websites
