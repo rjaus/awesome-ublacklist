@@ -43,7 +43,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Developer Sites
 - [Edit](https://github.com/arosh/ublacklist-github-translation/blob/master/uBlacklist.txt) - [GitHub Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt): Blocks a bunch of low value GitHub translation spam blogs.
 - [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
-- [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter?tab=readme-ov-file#other-filter-formats-ublacklist-hosts-filter-): Developer focussed filter list that aims to filter copycat sites such as GitHub, Stack Overflow, Wikipedia and similar.
+- [Edit](https://github.com/quenhus/uBlock-Origin-dev-filter?tab=readme-ov-file#other-filter-formats-ublacklist-hosts-filter-) - [uBlock-Origin-dev-filter](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Developer focussed filter list that aims to filter copycat sites such as GitHub, Stack Overflow, Wikipedia and similar.
 
 ## Shopping
  - [Edit](https://github.com/franga2000/aliexpress-fake-sites#how-to-contribute) - [Fake webstores](https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
