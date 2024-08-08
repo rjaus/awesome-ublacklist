@@ -35,6 +35,8 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Developer Content / Sites](#developer-sites)
 - [Shopping](#shopping)
 - [Local Business](#local-business)
+- [Gaming](#gaming)
+- [Unsafe/Malicious Sites](#unsafe-sites)
 
 
 ## Social Media
@@ -58,3 +60,6 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Gaming
 - [StopModReposts](https://api.stopmodreposts.org/minecraft/ublacklist.txt) - Blocks Minecraft mod repost websites
+
+## Unsafe Sites
+- [Edit](https://github.com/fmhy/FMHYFilterlist#how-to-contribute) - [FMHY Unsafe sites filterlist](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt): Blocks a bunch of unsafe/harmful/malicious websites listed in FMHY Unsafe Sites page.
