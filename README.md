@@ -62,6 +62,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Unsafe/Malicious Sites
 - [Edit](https://github.com/fmhy/FMHYFilterlist#how-to-contribute) - [FMHY Unsafe sites filterlist](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt): Blocks a bunch of unsafe/harmful/malicious websites listed in FMHY Unsafe Sites page.
+- [Edit](https://github.com/ngoomie/uBlacklist-suspicious-downloads/blob/main/list.txt) - [uBlacklist filters for suspicious downloads](https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt): Blocks sites that host suspicious downloads.
 
 ## AI Generated Images
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
