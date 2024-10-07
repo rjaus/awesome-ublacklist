@@ -34,11 +34,10 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Developer Content/Sites](#developer-contentsites)
 - [Shopping](#shopping)
 - [Local Business](#local-business)
-- [Content Filters](#content-filters)
-  - [Content Farms](#content-farms)
-  - [AI Generated Images](ai-generated-images)
+- [Content Farms](#content-farms)
 - [Gaming](#gaming)
 - [Unsafe/Malicious Sites](#unsafemalicious-sites)
+- [AI Generated Images](#ai-generated-images)
 
 ## Social Media
 - [Edit](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt) - [Pinterest](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt): Blocks all websites for pinterest.
@@ -55,16 +54,15 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## Local Business
 - [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt): Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24).
 
-## Content Filters
-### Content Farms
+## Content Farms
 - [Edit](https://github.com/wdmpa/content-farm-list/blob/main/uBlacklist.txt) - [Generic content farm](https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt): Blocks AI content farm.
-
-### AI Generated Images
-- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
-- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
 
 ## Gaming
 - [StopModReposts](https://api.stopmodreposts.org/minecraft/ublacklist.txt): Blocks Minecraft mod repost websites.
 
 ## Unsafe/Malicious Sites
 - [Edit](https://github.com/fmhy/FMHYFilterlist#how-to-contribute) - [FMHY Unsafe sites filterlist](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt): Blocks a bunch of unsafe/harmful/malicious websites listed in FMHY Unsafe Sites page.
+
+## AI Generated Images
+- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
+- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
