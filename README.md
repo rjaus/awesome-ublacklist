@@ -32,34 +32,39 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Table of Contents
 - [Social Media](#social-media)
-- [Developer Content / Sites](#developer-sites)
+- [Developer Content/Sites](#developer-contentsites)
 - [Shopping](#shopping)
 - [Local Business](#local-business)
+- [Content Farms](#content-farms)
 - [Gaming](#gaming)
-- [Unsafe/Malicious Sites](#unsafe-sites)
-
+- [Unsafe/Malicious Sites](#unsafemalicious-sites)
+- [AI Generated Images](#ai-generated-images)
 
 ## Social Media
 - [Edit](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt) - [Pinterest](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt): Blocks all websites for pinterest.
 
-## Developer Sites
+## Developer Content/Sites
 - [Edit](https://github.com/arosh/ublacklist-github-translation/blob/master/uBlacklist.txt) - [GitHub Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt): Blocks a bunch of low value GitHub translation spam blogs.
 - [Edit](https://github.com/arosh/ublacklist-stackoverflow-translation/blob/master/uBlacklist.txt) - [Stack Overflow Translation splogs](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt): Blocks a bunch of low value stack overflow translation spam blogs.
 - [Edit](https://github.com/quenhus/uBlock-Origin-dev-filter?tab=readme-ov-file#other-filter-formats-ublacklist-hosts-filter-) - [uBlock-Origin-dev-filter](https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/all.txt): Developer focussed filter list that aims to filter copycat sites such as GitHub, Stack Overflow, Wikipedia and similar.
 
 ## Shopping
- - [Edit](https://github.com/franga2000/aliexpress-fake-sites#how-to-contribute) - [Fake webstores](https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
-) - Blocks fake machine-translated web stores that only redirect you to AliExpress
+- [Edit](https://github.com/franga2000/aliexpress-fake-sites#how-to-contribute) - [Fake webstores](https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
+): Blocks fake machine-translated web stores that only redirect you to AliExpress.
 
 ## Local Business
-- [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt) - Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24)
+- [Edit](https://github.com/rjaus/ublacklist-yelp/blob/main/ublacklist-yelp.txt) - [Yelp](https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt): Blocks Yelp sites (does not include yelp affiliated businesses such as Eat24).
 
 ## Content Farms
-
-- [Generic content farm](https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt) - Blocks AI content farm. 
+- [Edit](https://github.com/wdmpa/content-farm-list/blob/main/uBlacklist.txt) - [Generic content farm](https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt): Blocks AI content farm.
 
 ## Gaming
-- [StopModReposts](https://api.stopmodreposts.org/ublacklist.txt) - Blocks Multiple mod repost websites
+- [StopModReposts](https://api.stopmodreposts.org/ublacklist.txt): Blocks Multiple mod repost websites.
 
-## Unsafe Sites
+## Unsafe/Malicious Sites
 - [Edit](https://github.com/fmhy/FMHYFilterlist#how-to-contribute) - [FMHY Unsafe sites filterlist](https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt): Blocks a bunch of unsafe/harmful/malicious websites listed in FMHY Unsafe Sites page.
+- [Edit](https://github.com/ngoomie/uBlacklist-suspicious-downloads/blob/main/list.txt) - [uBlacklist filters for suspicious downloads](https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt): Blocks sites that host suspicious downloads.
+
+## AI Generated Images
+- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
+- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
