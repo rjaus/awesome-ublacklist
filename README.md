@@ -39,6 +39,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Gaming](#gaming)
 - [Unsafe/Malicious Sites](#unsafemalicious-sites)
 - [AI Generated Images](#ai-generated-images)
+- [General](#general)
 
 ## Social Media
 - [Edit](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt) - [Pinterest](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt): Blocks all websites for pinterest.
@@ -68,3 +69,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## AI Generated Images
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
+
+## General
+
+- [Edit](https://github.com/popcar2/BadWebsiteBlocklist#contributing) - [BadWebsiteBlocklist](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt): Blocks AI spam, low-effort SEO spam, misleading advertisements, and generally bad websites that shouldn't appear in search results.
