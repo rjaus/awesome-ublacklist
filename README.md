@@ -58,6 +58,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 
 ## Content Farms
 - [Edit](https://github.com/wdmpa/content-farm-list/blob/main/uBlacklist.txt) - [Generic content farm](https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt): Blocks AI content farm.
+- [Edit](https://github.com/agsimmons/ai-content-blocklist/blob/main/uBlacklist.txt) - [AI Content Blocklist](https://raw.githubusercontent.com/agsimmons/ai-content-blocklist/refs/heads/main/uBlacklist.txt): Blocks AI generated news, answers, and more. This list does not block any discussion of AI or disclosed AI content.
 
 ## Gaming
 - [StopModReposts](https://api.stopmodreposts.org/ublacklist.txt): Blocks Multiple mod repost websites.
