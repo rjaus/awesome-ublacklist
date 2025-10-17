@@ -73,3 +73,4 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## General
 
 - [Edit](https://github.com/popcar2/BadWebsiteBlocklist#contributing) - [BadWebsiteBlocklist](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt): Blocks AI spam, low-effort SEO spam, misleading advertisements, and generally bad websites that shouldn't appear in search results.
+- [Edit](https://github.com/johny579/uBlacklist-Productivity-Ruleset) - [Productivity Ruleset](https://raw.githubusercontent.com/johny579/uBlacklist-Productivity-Ruleset/refs/heads/main/uBlacklist-Productivity-Ruleset.txt): Boost your productivity - block time sinks: AI slop; non-educational gaming; erotic content; SEO; fake news/propaganda; & short-form social media (that reduces your IQ). 
