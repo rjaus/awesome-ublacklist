@@ -73,3 +73,4 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## General
 
 - [Edit](https://github.com/popcar2/BadWebsiteBlocklist#contributing) - [BadWebsiteBlocklist](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt): Blocks AI spam, low-effort SEO spam, misleading advertisements, and generally bad websites that shouldn't appear in search results.
+- [Edit](https://github.com/pnppl/watermark-blacklist/blob/master/uBlacklist.txt) - [watermark-blacklist](https://raw.githubusercontent.com/pnppl/watermark-blacklist/refs/heads/master/uBlacklist.txt): Blocks sites that host watermarked images.
