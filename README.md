@@ -73,3 +73,4 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## General
 
 - [Edit](https://github.com/popcar2/BadWebsiteBlocklist#contributing) - [BadWebsiteBlocklist](https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt): Blocks AI spam, low-effort SEO spam, misleading advertisements, and generally bad websites that shouldn't appear in search results.
+- [uBlacklistFandomWikis](https://git.32bit.cafe/nu/uBlacklistFandomWikis/raw/branch/main/ublacklist-fandom.txt): Blocks Fandom wikis from search results when a viable alternative exists
