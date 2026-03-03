@@ -68,7 +68,7 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 - [Edit](https://github.com/ngoomie/uBlacklist-suspicious-downloads/blob/main/list.txt) - [uBlacklist filters for suspicious downloads](https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt): Blocks sites that host suspicious downloads.
 
 ## AI Generated Images
-- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
+- [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list. Caution: Also blocks non-image AI related sites like Huggingface
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
 
 ## General
