@@ -70,6 +70,8 @@ And here is a list of awesome uBlacklist subscriptions.  Add uBlacklist to your 
 ## AI Generated Images
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Regular](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt): Blocks AI generated image results, regular list.
 - [Edit](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/list_uBlacklist_nuclear.txt) - [uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt): Blocks AI generated image results, nuclear list (contains a mix of authentic and AI generated imagery).
+- [Edit](https://github.com/Wakelock/uSloplist/blob/main/uBlacklist.txt) - [uSloplist](https://raw.githubusercontent.com/Wakelock/uSloplist/refs/heads/main/uBlacklist.txt): Blocks AI websites, subdomains, titles and especially images; highlights AI-free search results.
+
 
 ## General
 
